@@ -1,0 +1,15 @@
+ul {
+	overflow: auto;
+
+}
+
+
+.legislatorContainer {
+	display: inline-block;
+	background: lightgreen;
+	border: 9px solid white;
+	padding: 2%;
+	width: 33.33%;
+    margin: 0 auto;
+}
+
